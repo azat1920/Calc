@@ -1,0 +1,17 @@
+﻿<Application x:Class="WpfClient.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="Triggers" TargetType="Button">
+            <Style.Triggers>
+                <Trigger Property="IsPressed" Value="true">
+                    <Setter Property = "BorderThickness" Value = "2"/>
+                    <Setter Property = "Foreground" Value="#FFB91414"/>
+                    
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+    </Application.Resources>
+</Application>
