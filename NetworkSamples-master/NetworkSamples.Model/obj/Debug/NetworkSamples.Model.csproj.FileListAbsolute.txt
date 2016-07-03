@@ -1,0 +1,15 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\NetworkSamples.Model\bin\Debug\NetworkSamples.Model.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\NetworkSamples.Model\bin\Debug\NetworkSamples.Model.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\NetworkSamples.Model\obj\Debug\NetworkSamples.Model.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\NetworkSamples.Model\obj\Debug\NetworkSamples.Model.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\NetworkSamples.Model\obj\Debug\NetworkSamples.Model.pdb
+D:\labs\3 module\NetworkSamples-master\NetworkSamples.Model\bin\Debug\NetworkSamples.Model.dll
+D:\labs\3 module\NetworkSamples-master\NetworkSamples.Model\bin\Debug\NetworkSamples.Model.pdb
+D:\labs\3 module\NetworkSamples-master\NetworkSamples.Model\obj\Debug\NetworkSamples.Model.csprojResolveAssemblyReference.cache
+D:\labs\3 module\NetworkSamples-master\NetworkSamples.Model\obj\Debug\NetworkSamples.Model.dll
+D:\labs\3 module\NetworkSamples-master\NetworkSamples.Model\obj\Debug\NetworkSamples.Model.pdb
+D:\labs\3 module\lab1\Calc\NetworkSamples-master\NetworkSamples.Model\bin\Debug\NetworkSamples.Model.dll
+D:\labs\3 module\lab1\Calc\NetworkSamples-master\NetworkSamples.Model\bin\Debug\NetworkSamples.Model.pdb
+D:\labs\3 module\lab1\Calc\NetworkSamples-master\NetworkSamples.Model\obj\Debug\NetworkSamples.Model.csprojResolveAssemblyReference.cache
+D:\labs\3 module\lab1\Calc\NetworkSamples-master\NetworkSamples.Model\obj\Debug\NetworkSamples.Model.dll
+D:\labs\3 module\lab1\Calc\NetworkSamples-master\NetworkSamples.Model\obj\Debug\NetworkSamples.Model.pdb
